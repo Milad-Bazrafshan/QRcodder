@@ -3,8 +3,8 @@ Manufacturing and preparing all kinds of Q-code using Q-code code tool
 
 To run the program, first enter the following commands to install the modules in the terminal:<br>
 <b>$ sudo pip install pyfiglet<br>
-<b>$ sudo pip install pyqrcode<br><br>
+$ sudo pip install pyqrcode</b><br><br>
 Then prepare the file from the GitHub repository with the following command:<br>
-https://github.com/Milad-Bazrafshan/QRcodder.git<br><br>
+<b>https://github.com/Milad-Bazrafshan/QRcodder.git</b><br><br>
 Call the program file with the following command and enjoy using it:<br>
-python QRcodder.py
+<b>python QRcodder.py</b>
