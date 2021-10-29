@@ -9,7 +9,7 @@ $ sudo pip install pyqrcode
 <br><br>
 Then prepare the file from the GitHub repository with the following command:<br>
 ```sh
-git clone https://github.com/Milad-Bazrafshan/QRcodder.git
+$ sudo git clone https://github.com/Milad-Bazrafshan/QRcodder.git
 ```
 Call the program file with the following command and enjoy using it:<br>
 ```sh
